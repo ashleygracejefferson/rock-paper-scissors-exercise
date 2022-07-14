@@ -1,5 +1,5 @@
 
-#Welcome to the Rock, Paper, Scissors Game
+# Welcome to the Rock, Paper, Scissors Game
     by Ashley Jefferson
 
 ## Rules of the Game
